@@ -1,0 +1,13 @@
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\bin\Debug\netstandard2.0\XamarinFramework.deps.json
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\bin\Debug\netstandard2.0\XamarinFramework.dll
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\bin\Debug\netstandard2.0\ref\XamarinFramework.dll
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\bin\Debug\netstandard2.0\XamarinFramework.pdb
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\XamarinFramework.csprojAssemblyReference.cache
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\XamarinFramework.AssemblyInfoInputs.cache
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\XamarinFramework.AssemblyInfo.cs
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\XamarinFramework.dll
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\ref\XamarinFramework.dll
+C:\Users\34546\source\repos\XamarinFramework\XamarinFramework\XamarinFramework\obj\Debug\netstandard2.0\XamarinFramework.pdb
